@@ -9,7 +9,7 @@ const ScreenProcess = () => {
       className="w-screen flex flex-col justify-center items-center"
     >
       <h1 className="lg:text-4xl md:text-3xl font-bold text-2xl text-center max-w-2xl">
-        How D-Community assists businesses in&nbsp;
+        How D-Staffing assists businesses in&nbsp;
         <span className="bg-yellow-200">
           reducing their recruitment time by 30 days
         </span>

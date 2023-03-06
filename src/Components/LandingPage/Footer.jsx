@@ -73,7 +73,7 @@ const Footer = () => {
           "
             >
               <img src={Logo} alt="Logo" className="w-10 mr-2" />
-              D-Community
+              D-Staffing
             </h6>
             <p>
               Hire India’s top remote talent. We source, vet & deploy the top
