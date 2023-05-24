@@ -4,7 +4,7 @@ A modern website landing page that is not only visually stunning, but it is also
 
 ## Demo
 
-<a href="https://d-staffing.netlify.app/" target="_blank">Click Here</a> for Live Preview
+<a href="https://d-staffing.netlify.app/" target="_blank">Click Here</a> for Live Preview.
 
 ## Tech Stack
 
